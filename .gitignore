@@ -98,3 +98,7 @@ ENV/
 .ropeproject
 
 # End of https://www.gitignore.io/api/python
+
+
+img_align_celeba
+img_actress
