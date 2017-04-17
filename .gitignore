@@ -102,3 +102,5 @@ ENV/
 
 img_align_celeba
 img_actress
+*.zip
+*.tar.gz
